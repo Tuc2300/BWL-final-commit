@@ -12,8 +12,8 @@ export default function YevheniiStory() {
         "An realen Problemen zu arbeiten und zu sehen, dass meine Beiträge etwas bewirken, war unglaublich bereichernd. Ich habe viel gelernt und bin sowohl beruflich als auch persönlich gewachsen.Ich bin dankbar für die Möglichkeit, Teil eines so großartigen Teams zu sein, und freue mich auf die bevorstehenden Herausforderungen."
       }
       Achievements={[
-        "KI von Grund auf neu erstellt",
-        "hat zur Leistung der Website beigetragen.",
+        "KI von Grund auf neu erstellen",
+        "Beitrag zur Leistung der Website.",
       ]}
       Age={20}
       Team={"Timecard"}

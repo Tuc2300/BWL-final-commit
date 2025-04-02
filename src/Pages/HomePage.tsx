@@ -59,7 +59,7 @@ function InternExperience({
         <div>
           <h3 className="text-lg font-semibold text-[#33312b]">{Name}</h3>
           <p className="text-gray-600">Azubi</p>
-          <p className="text-sm text-[#fbba00]">Winter 2025</p>
+          <p className="text-sm text-[#fbba00]">Winter 2024</p>
         </div>
       </div>
       <p className="text-gray-600 italic relative pl-6">

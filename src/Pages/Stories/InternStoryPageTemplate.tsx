@@ -87,7 +87,7 @@ const InternStoryPageTemplate = ({
           {/* Sidebar */}
           <div className="bg-gray-50 p-8 rounded-xl">
             <h3 className="text-xl font-semibold text-[#33312b] mb-4">
-              Wichtigste Erfolge
+              Wichtigste Aufgaben
             </h3>
             <ul className="space-y-4">
               {Achievements.map((achievement, index) => (
